@@ -60,7 +60,7 @@ body {
 
 }
 
-.areafone {
+.areafone, .areacargo, .areaemail  {
     display: flex;
     justify-content: center;
     align-items: center;
